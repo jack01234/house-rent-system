@@ -9,5 +9,8 @@
         <module name="house-rent-system" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="house-rent-system" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
